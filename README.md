@@ -1,0 +1,1 @@
+A simple one-hot encoder for csv files in Javascript.
